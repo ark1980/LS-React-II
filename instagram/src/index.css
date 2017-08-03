@@ -3,3 +3,32 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.post {
+  text-align: center;
+}
+
+.postPic {
+  width: 500px;
+  height: 500px;
+  margin-bottom: 10px;
+}
+
+.logo {
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  margin: 10px;
+}
+
+.box {
+  border: 1px solid gray;
+  margin: 10px auto;
+  padding: 25px 0;
+  width: 600px;
+}
+
+.textAllignment {
+  text-align: left;
+  padding: 0 50px;
+}
